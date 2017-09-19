@@ -49,4 +49,10 @@ Flip Textures: Some games display most of their textures upside-down. This will 
 Load Textures from Folder: Repaints every dumped texture with pictures in a folder at random when ClipArtBot is started. Supports .png, .jpg, .gif, and .bmp formats (and probably others).
 Folder Filepath: The filepath where the pictures you want to use are located.
 
+Play Midis: Allows chat members to use the !midi command to choose a random midi in a given folder.
+Midi Folder Filepath: The filepath where the midis are saved.
+Autoplay: Automatically plays midis, even when no midis have been requested by a chat member.
+Custom Soundfont: Allows the use of a custom .sf2 soundfont.
+Soundfont Filepath: The filepath of the soundfont.
+
 Have fun and happy cliparting/repainting!
