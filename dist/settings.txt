@@ -1,0 +1,46 @@
+MAKE SURE THE FORMATTING IS UNCHANGED WHEN MAKING ANY CHANGES OR ELSE EVERYTHING WILL EXPLODE!
+Warning: There must be exactly one space between the name of an option and the input, otherwise ClipArtBot may fail to load. I'll make it less finnicky eventually I swear maybe
+Example -> Twitch Channel: ThisIsMyChannel
+Note: 0 = off, 1 = on
+
+***TWITCH LOGIN SETTINGS***
+OAuth Code: oauth:ejo4mrf4hc0qwucli7vv5gwxo2txsz
+Server: irc.chat.twitch.tv
+Port: 6667
+Twitch Channel: tininsteelian
+
+***FONT SETTINGS***
+Font: HammersmithOne
+Font Size: 24
+
+***CLIPARTBOT SETTINGS***
+!get Enabled: 1
+!clipart Enabled: 1
+!stock Enabled: 1
+Use Shutterstock: 1
+!gif Enabled: 1
+!deviant Enabled: 1
+!deviant Quick Mode: 0
+!booru Enabled: 1
+Bad Word Filter Enabled: 1
+Saved Images Enabled: 0
+Saved Images Filepath: F:\Pictures\
+
+***REAL-TIME REPAINTER SETTINGS***
+Real-Time Repainter Enabled: 0
+Texture Dump Filepath: C:\Users\tininsteelian\Documents\Dolphin Emulator\Dump\Textures\GCTE51\
+Texture Load Filepath: C:\Users\tininsteelian\Documents\Dolphin Emulator\Load\Textures\GCTE51\
+Number of Textures to Replace: 10
+Recheck Dump Folder: 0
+Flip Textures: 1
+
+***REPAINTING FROM FOLDER SETTINGS (Don't forget to include the Texture Dump and Load filepaths above for this to work!)***
+Load Textures from Folder: 0
+Folder Filepath: C:\Users\tininsteelian\Desktop\pictures\
+
+***MIDI SETTINGS***
+Play Midis: 1
+Midi Folder Filepath: C:\Music\
+Autoplay: 1
+Custom Soundfont: 0
+Soundfont Filepath: C:\Users\tininsteelian\Music\Soundfonts\FluidR3_GM.sf2
